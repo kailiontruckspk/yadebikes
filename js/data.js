@@ -96,8 +96,9 @@ window.YAD={
     }
    ],
    "imgs": [
-    "x9b",
     "x9a",
+    "x9b",
+    "x9c",
     "x9d"
    ],
    "d": "Premium urban mobility. Front guard bars, LED lights and an optional rear box.",
@@ -143,8 +144,8 @@ window.YAD={
     }
    ],
    "imgs": [
-    "s1b",
     "s1a",
+    "s1b",
     "s1c",
     "s1d"
    ],
@@ -191,7 +192,8 @@ window.YAD={
     }
    ],
    "imgs": [
-    "sr2b"
+    "sr2b",
+    "sr2a"
    ],
    "d": "Power, style and performance built for a better tomorrow.",
    "ex": [
@@ -239,7 +241,8 @@ window.YAD={
     }
    ],
    "imgs": [
-    "sr1b"
+    "sr1b",
+    "sr1a"
    ],
    "d": "Powerful performance and stylish design, built for a better tomorrow.",
    "ex": [
