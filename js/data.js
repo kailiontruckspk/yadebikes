@@ -518,14 +518,14 @@ window.YAD={
    ]
   },
   {
-   "id": "yad-cargo",
-   "n": "YAD Cargo",
-   "short": "Cargo",
+   "id": "yad-starlight",
+   "n": "YAD StarLight",
+   "short": "Star Light",
    "series": "Special",
    "cat": "Cargo & Special",
    "vars": [
     {
-     "n": "Cargo",
+     "n": "starlight",
      "pr": 0,
      "bat": "",
      "mot": ""
@@ -560,14 +560,14 @@ window.YAD={
    ]
   },
   {
-   "id": "yad-tank",
-   "n": "YAD Tank",
-   "short": "Tank",
+   "id": "yad-eagle",
+   "n": "YAD Eagle",
+   "short": "Eagle",
    "series": "Special",
    "cat": "Cargo & Special",
    "vars": [
     {
-     "n": "Tank",
+     "n": "Eagle",
      "pr": 0,
      "bat": "",
      "mot": ""
