@@ -179,7 +179,7 @@ window.YAD={
   },
   {
    "id": "yad-smart-ride-1500w",
-   "n": "YAD Smart Ride 1500W",
+   "n": "With Starlight & Eagle ",
    "short": "Smart Ride 1500W",
    "series": "Smart Ride",
    "cat": "Scooter",
