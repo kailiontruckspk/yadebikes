@@ -192,8 +192,8 @@ window.YAD={
     }
    ],
    "imgs": [
-    "sr2b",
-    "sr2a"
+    "sr2b"
+ 
    ],
    "d": "Power, style and performance built for a better tomorrow.",
    "ex": [
