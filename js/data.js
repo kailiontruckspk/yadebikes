@@ -560,14 +560,14 @@ window.YAD={
    ]
   },
   {
-   "id": "yad-eagle",
-   "n": "YAD Eagle",
-   "short": "Eagle",
+   "id": "yad-tank",
+   "n": "YAD Tank",
+   "short": "Tank",
    "series": "Special",
    "cat": "Cargo & Special",
    "vars": [
     {
-     "n": "Eagle",
+     "n": "Tank",
      "pr": 0,
      "bat": "",
      "mot": ""
